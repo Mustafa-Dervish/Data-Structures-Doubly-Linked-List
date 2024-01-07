@@ -1,0 +1,7 @@
+E(0#Ali Sari <-->)
+E(1#Veli Yali)
+E(2#Ayse Kuru <-->)
+E(3#Su Beyaz)
+E(1#mehmet)
+S(1)
+S(1)
